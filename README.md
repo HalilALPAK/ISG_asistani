@@ -3,6 +3,8 @@
 
 Bu proje; fabrika ortamlarında pano güvenliği, yasaklı alan denetimi ve personel yetkilendirme süreçlerini görüntü işleme ile takip eden bir denetim sistemidir. Sistem, ihlalleri anlık olarak tespit eder, yerel diske kaydeder ve Telegram üzerinden yetkililere fotoğraflı bildirim gönderir.
 
+Buradaki eğitimleri Eskişehirdeki bir fabrikadan alınan görüntülerle yaptım. 
+
 ✨ Temel Özellikler
 
 - Pano Durum Analizi: Özel eğitilmiş YOLOv8-Classify modeli ile panonun açık veya kapalı olduğunu gerçek zamanlı takip eder.
