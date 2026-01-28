@@ -1,7 +1,7 @@
 # ISG_asistani
 
 
-Bu proje; fabrika ortamlarında pano güvenliği, yasaklı alan denetimi ve personel yetkilendirme süreçlerini yapay zeka ile 7/24 otonom olarak takip eden bir denetim sistemidir. Sistem, ihlalleri anlık olarak tespit eder, yerel diske kaydeder ve Telegram üzerinden yetkililere fotoğraflı bildirim gönderir.
+Bu proje; fabrika ortamlarında pano güvenliği, yasaklı alan denetimi ve personel yetkilendirme süreçlerini görüntü işleme ile takip eden bir denetim sistemidir. Sistem, ihlalleri anlık olarak tespit eder, yerel diske kaydeder ve Telegram üzerinden yetkililere fotoğraflı bildirim gönderir.
 
 ✨ Temel Özellikler
 
